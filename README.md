@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/panchodp/rut-chileno-rule"><img src="https://img.shields.io/packagist/v/panchodp/rut-chileno-rule.svg?" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/panchodp/rut-chileno-rule"><img src="https://img.shields.io/badge/License-MIT-green" alt="License"></a>
 
-# RUT Validator
+# Rut Chileno Rule for Laravel.
 
 Regla de validación de RUT chileno para Laravel.
 
