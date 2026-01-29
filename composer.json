@@ -1,6 +1,6 @@
 {
   "name": "panchodp/rut-chileno-rule",
-  "description": "Validador y formateador de RUT chileno para PHP",
+  "description": "Validador(rule) y formateador de RUT chileno para Laravel.",
   "keywords": ["rut", "chile", "rule", "chilean", "laravel", "validation"],
   "type": "library",
   "license": "MIT",
