@@ -85,4 +85,4 @@ composer test:coverage
 
 ## Licencia
 
-MIT
+[MIT](https://github.com/PanchoDP/rut-chileno-rule/blob/master/LICENSE.md)
