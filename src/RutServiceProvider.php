@@ -10,6 +10,11 @@ use Illuminate\Validation\Validator;
 
 final class RutServiceProvider extends ServiceProvider
 {
+    public function register(): void
+    {
+        $this->app->singleton('rut', fn (): RutHelper => new RutHelper);
+    }
+
     public function boot(): void
     {
         $this->loadTranslationsFrom(__DIR__.'/lang', 'rutchileno');

@@ -23,7 +23,10 @@
   "autoload": {
     "psr-4": {
       "Panchodp\\RutChileno\\": "src/"
-    }
+    },
+    "files": [
+      "src/helpers.php"
+    ]
   },
   "autoload-dev": {
     "psr-4": {
@@ -34,7 +37,10 @@
     "laravel": {
       "providers": [
         "Panchodp\\RutChileno\\RutServiceProvider"
-      ]
+      ],
+      "aliases": {
+        "Rut": "Panchodp\\RutChileno\\Facades\\Rut"
+      }
     }
   },
   "scripts": {
