@@ -1,4 +1,4 @@
-name: Tests_Barcode
+name: Tests_Rut_chileno_rule
 
 on:
   push:
