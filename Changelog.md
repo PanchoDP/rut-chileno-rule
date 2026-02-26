@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.2] - 2026-02-26
+
+### 🐛 Bug Fixes
+
+- Update the github action test. Delete php8.3 option in matrixs
+
+- Change analyse to analyze in action test
+
+
 ## [1.1.1] - 2026-02-26
 
 ### 🧪 Testing
