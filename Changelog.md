@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.1] - 2026-02-26
+
+### 🧪 Testing
+
+- Add github actions test for the package
+
+
 ## [1.1.0] - 2026-01-29
 
 ### 🚀 Features
