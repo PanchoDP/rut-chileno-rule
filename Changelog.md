@@ -9,6 +9,11 @@ All notable changes to this project will be documented in this file.
 - Add github actions test for the package
 
 
+### 🏗️ Build
+
+- Add 8.5 support and composer bump
+
+
 ## [1.1.0] - 2026-01-29
 
 ### 🚀 Features
