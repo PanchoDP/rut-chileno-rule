@@ -46,4 +46,4 @@ jobs:
       run: composer pint
 
     - name: Run static analysis
-      run: composer analyse
+      run: composer analyze
