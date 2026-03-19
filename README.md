@@ -11,10 +11,19 @@
 
 Regla de validación de RUT chileno para Laravel.
 
+## Compatibilidad
+
+| Laravel | PHP       | Testbench |
+|---------|-----------|-----------|
+| 10.x    | 8.4, 8.5  | ^8.0      |
+| 11.x    | 8.4, 8.5  | ^9.0      |
+| 12.x    | 8.4, 8.5  | ^10.0     |
+| 13.x    | 8.4, 8.5  | ^11.0     |
+
 ## Requisitos
 
 - PHP 8.4+
-- Laravel 10+
+- Laravel 10, 11, 12 o 13
 
 ## Instalación
 
