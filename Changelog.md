@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.4] - 2026-03-19
+
+### 📚 Documentation
+
+- Update readme information
+
+
+### 🧪 Testing
+
+- Testing package with diferents laravel versions
+
+
 ## [1.1.3] - 2026-02-26
 
 ### 🐛 Bug Fixes
