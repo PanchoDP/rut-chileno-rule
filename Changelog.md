@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.5] - 2026-05-13
+
+### 🐛 Bug Fixes
+
+- Fix composer version 2.9.8
+
+
 ## [1.1.4] - 2026-03-19
 
 ### 📚 Documentation
